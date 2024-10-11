@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: "Rubik", sans-serif;
+}
+.custom-img {
+  background-image: url(./assets/Pantum-webb-1.jpg);
+  background-color: rgba(0, 0, 0, 0.75);
+}
+.fonted {
+  font-family: Arial, Helvetica, sans-serif;
+}
+.underline-custom:hover {
+  text-decoration: underline;
+  text-decoration-color: rgba(82, 165, 243, 0.781);
+}
+.product {
+  background-image: url(./assets/shape-3.png);
+}
+.custom-select option {
+  @apply bg-slate-200 shadow-md rounded-md hover:bg-[#17a8e3];
+}
