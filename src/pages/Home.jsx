@@ -1,6 +1,5 @@
 import Content from "../Layouts/Content";
 import Topbar from "../Layouts/Topbar";
-import "./../styles/Home.css";
 import Contact from "../Layouts/Contact";
 import Main from "../Layouts/Main";
 import Footer from "../Layouts/Footer";

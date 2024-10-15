@@ -87,7 +87,7 @@ const Single = () => {
           <img
             src={Pantum}
             alt=""
-            className="w-3/4 md:w-[500px] cursor-pointer"
+            className="w-3/4 md:w-[500px]"
           />
           <p className="my-5">Download drivers/user manual</p>
           <div className="flex flex-col gap-3 mt-5">

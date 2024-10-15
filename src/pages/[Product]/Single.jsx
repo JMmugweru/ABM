@@ -56,6 +56,7 @@ const SinglePage = () => {
                     </Link>
                   </div>
                 )}
+                
               </div>
 
               <Link
